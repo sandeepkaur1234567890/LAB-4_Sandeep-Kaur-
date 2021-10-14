@@ -1,0 +1,5 @@
+C:\Users\User\Documents\Cambrian\IOT1026\Repositories\LAB-4_Sandeep-Kaur-\LAB-4_Sandeep-Kaur-\obj\Debug\net5.0\LAB-4_Sandeep-Kaur-.csprojAssemblyReference.cache
+C:\Users\User\Documents\Cambrian\IOT1026\Repositories\LAB-4_Sandeep-Kaur-\LAB-4_Sandeep-Kaur-\obj\Debug\net5.0\LAB-4_Sandeep-Kaur-.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Cambrian\IOT1026\Repositories\LAB-4_Sandeep-Kaur-\LAB-4_Sandeep-Kaur-\obj\Debug\net5.0\LAB-4_Sandeep-Kaur-.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Cambrian\IOT1026\Repositories\LAB-4_Sandeep-Kaur-\LAB-4_Sandeep-Kaur-\obj\Debug\net5.0\LAB-4_Sandeep-Kaur-.AssemblyInfo.cs
+C:\Users\User\Documents\Cambrian\IOT1026\Repositories\LAB-4_Sandeep-Kaur-\LAB-4_Sandeep-Kaur-\obj\Debug\net5.0\LAB-4_Sandeep-Kaur-.csproj.CoreCompileInputs.cache
