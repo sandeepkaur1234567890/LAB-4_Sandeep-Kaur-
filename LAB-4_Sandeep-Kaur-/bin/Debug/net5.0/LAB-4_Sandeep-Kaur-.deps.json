@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "LAB-4_Sandeep-Kaur-/1.0.0": {
+        "runtime": {
+          "LAB-4_Sandeep-Kaur-.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LAB-4_Sandeep-Kaur-/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
